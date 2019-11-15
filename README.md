@@ -1,3 +1,3 @@
 # flat-portfolio
 
-cleam material design page
+clean material design page
