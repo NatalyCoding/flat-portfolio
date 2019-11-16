@@ -59,7 +59,7 @@ body {
 /*Banner*/
 
 .site-banner {
-    background: url("../img/dots.jpg") no-repeat;
+    background: url("") no-repeat;
 }
 
 .site-banner h4 {
@@ -168,4 +168,12 @@ h3 {
     font-weight: 700;
     letter-spacing: 0.1rem;
     margin-bottom: 1.5rem;
+}
+
+.brands-section.slider {
+    background: #F8F9FA;
+    padding: 5rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
