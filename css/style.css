@@ -16,6 +16,17 @@ body {
     max-width: 1920px;
 }
 
+section {
+    padding: 5rem 5rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    margin-bottom: 1.5rem;
+}
+
 .title-text {
     color: var(--title-color);
 }
@@ -28,7 +39,7 @@ body {
 }
 
 .header_area .navbar {
-    padding: 1rem;
+    padding: 1rem 5rem;
 }
 
 .header_area .nav-item .nav-link {
@@ -157,18 +168,7 @@ body {
 }
 
 
-/*Introduce Section*/
-
-.about-section {
-    padding: 8rem 5rem;
-}
-
-h3 {
-    font-size: 2.5rem;
-    font-weight: 700;
-    letter-spacing: 0.1rem;
-    margin-bottom: 1.5rem;
-}
+/*About Section*/
 
 .brands-section.slider {
     background: #F8F9FA;
@@ -176,4 +176,11 @@ h3 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+
+/*Services*/
+
+.services-list {
+    padding: 2rem 0;
 }
