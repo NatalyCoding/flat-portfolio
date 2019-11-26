@@ -1,3 +1,3 @@
-# flat-portfolio
+# Flat Portfolio
 
 clean material design page
